@@ -8,4 +8,4 @@ Currently I am single and looking for a life partner. The purpose of this app is
 ## Technologies
 - react 
 - scss
-
+- material UI
